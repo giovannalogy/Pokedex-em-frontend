@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./favicon/favicon-16x16.png"> <!-- ícone da guia no navegador -->
+    <link rel="stylesheet" href="./css/style.css"> 
+    <script defer src="./js/script.js"></script>
+    <title>Pokédex</title>
+</head>
+<body> <!-- Body tem os textos editáveis em CSS, formulário (campo de preenchimento do pokémon) -->
+    <main>
+        <img src="#" alt="pokemon" class="pokemon_img">
+        
+        <h1 class="pokemon_data"> <!-- Onde aaparece as informções do pokémon -->
+            <span class="pokemon_number"></span>-
+            <span class="pokemon_name"></span>
+
+        </h1>
+
+        <form class="form">
+            <input type="search"
+            class="input_search"
+            placeholder="Nome ou Número"
+            required/>
+        </form>
+
+        <div class="buttons"> <!-- botões de próximo e anterior -->
+            <button class="button_prev">Anterior &lt;</button>
+            <button class="button_next">Próximo &gt;</button>
+        </div>
+        
+        <img src="./images/pokedex.png" alt="pokédex" class="pokedex"> <!-- Imagem da pokedex em PNG -->
+    </main>
+</body>
+</html>
