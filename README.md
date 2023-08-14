@@ -9,7 +9,7 @@ Projeto para estudo com a utilização de API na linguagem JavaScript.
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE de desenvolvimento
 * [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem utilizada
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Linguagem utilizada
-* [JavaScript](https://learn.microsoft.com/pt-br/dotnet/csharp/) - Linguagem utilizada
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem utilizada
 * [API do pokémon](https://pokeapi.co/) - API oficial do Pokémon
 
 ## Modelagem de projeto
